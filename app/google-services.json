@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "144283000366",
+    "firebase_url": "https://trakerapp-fbca9-default-rtdb.firebaseio.com",
+    "project_id": "trakerapp-fbca9",
+    "storage_bucket": "trakerapp-fbca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144283000366:android:082188cc214368cae7c9bf",
+        "android_client_info": {
+          "package_name": "com.prplmnstr.trackerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAdAY4QLl6DontEACslH90e8Fn5S2rwDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
